@@ -1,2 +1,2 @@
-# SpectorFinanceIT
-This channel was created in order to share data analysis projects I created with SQL, Python and Tableau to show recruiters my technical skills
+# Covid Project in Tableau  
+This repository contains the data source and the tableau file with all the KPI´s and graphs used to analize Covid-19 Vaccination campaign over time in different countries, with a final Dashboard that aggregates  all the information and provides an overview of the analysis.
