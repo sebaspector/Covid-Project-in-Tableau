@@ -41,7 +41,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Country_vaccinations_Full Data' name='textscan.1e1q3u0124ivct16v5m881c0sukl'>
-            <connection class='textscan' directory='C:\Users\sebas\OneDrive\Desktop\Tableau' filename='Country_vaccinations_Full Data.csv' password='' server='' />
+            <connection class='textscan' directory='C:/Users/sebas/OneDrive/Desktop/Tableau' filename='Country_vaccinations_Full Data.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1e1q3u0124ivct16v5m881c0sukl' name='Country_vaccinations_Full Data.csv' table='[Country_vaccinations_Full Data#csv]' type='table'>
